@@ -1,5 +1,5 @@
 # data-engineering_learning_DE
-My journey from Data Analyst to Data Engineer**
+My journey from Data Analyst to Data Engineer
 
 ## About Me
 I am learning Data Engineering from fundamentals to advanced concepts.
@@ -24,4 +24,4 @@ I am learning Data Engineering from fundamentals to advanced concepts.
 Coming Soon!
 
 ## Progress
-Currently learning GitHub fundamentals.**
+Currently learning GitHub fundamentals.
