@@ -1,6 +1,5 @@
 # data-engineering_learning_DE
-My journey from Data Analyst to Data Engineer
-**# My Data Engineering Learning Journey
+My journey from Data Analyst to Data Engineer**
 
 ## About Me
 I am learning Data Engineering from fundamentals to advanced concepts.
